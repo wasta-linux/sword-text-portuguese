@@ -1,0 +1,19 @@
+Source: sword-text-portuguese
+Section: utils
+Priority: extra
+Maintainer: Rik Shaw <rikshaw76@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.7
+Homepage: https://github.com/wasta-linux/sword-text-portuguese
+
+Package: sword-text-portuguese
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Recommends: xiphos
+Description: SWORD Portuguese Bible Text Modules
+ The following texts are included:
+   - poralmeida1911: De 1911 Biblia Sagrada Traduzida em Portuguez
+       Por João Ferreeira D'Almeida
+   - porar: Bíblia Almeida Recebida
+   - porlivre: Bíblia Livre
+

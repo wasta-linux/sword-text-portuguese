@@ -1,0 +1,9 @@
+sword-text-portuguese (0.1.0) xenial; urgency=medium
+
+  * initial release: includes following texts:
+    - poralmeida1911: De 1911 Biblia Sagrada Traduzida em Portuguez
+        Por João Ferreeira D'Almeida
+    - porar: Bíblia Almeida Recebida
+    - porlivre: Bíblia Livre
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Wed, 02 May 2018 13:45:18 +0300
